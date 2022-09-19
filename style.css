@@ -417,7 +417,7 @@ form input{
 }
 
 .deal{
-  background:url(../images/deal-bg.jpg) no-repeat;
+  background:url(images/deal-bg.jpg) no-repeat;
   background-position: center;
   background-size: cover;
   padding-top: 7rem;
