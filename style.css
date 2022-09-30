@@ -179,12 +179,11 @@ form input{
   display: none;
   position: absolute;
   top: 10px;
-  width: 37vw;
-  box-shadow: 4px 4px 4px var(--bs-gray-500);
+  width: 33vw;
+  /* box-shadow: 4px 4px 4px var(--bs-gray-500); */
   padding: 13px;
   border-radius: 15px;
-  background-color: white;
- 
+  background-color: #d9f7e6;
 }
 .signup-popup h2 {
   font-size: 4rem;
