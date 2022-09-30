@@ -124,6 +124,10 @@ function signup() {
     }
 		USERS_DB.push(userDetails)
 		document.getElementById("signup-popup").style.display = 'block'
+
+    setTimeout(()=>{
+      document.getElementById("signup-popup").style.display = 'none'
+    }, 3*1000)
     // alert('success')
 		document.getElementById('signup-form-id').reset()
     resetFields() 
