@@ -19,7 +19,7 @@ menu.addEventListener('click', () =>{
 
 // }
 
-let countDate = new Date('june 1, 2021 00:00:00').getTime();
+let countDate = new Date('november 1, 2022 00:00:00').getTime();
 
 function CountDown(){
 
